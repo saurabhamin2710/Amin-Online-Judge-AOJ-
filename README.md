@@ -31,5 +31,7 @@ There are three tables
   status (solved or unsolved)
   score (total score based on difficulty level)
   difficulty 
+4)testcase
+  problem_id(Foreign key from problems)
   testcases_i/p (input files for testcases)
   testcases_o/p (output files for input files)
