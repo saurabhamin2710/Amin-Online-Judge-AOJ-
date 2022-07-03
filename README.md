@@ -28,6 +28,7 @@ There are three tables
 3)problems
   problem_id (Primary key for problems table)
   prob_description (Description,constraints,Primary testcases)
+  status (solved or unsolved)
   score (total score based on difficulty level)
   difficulty 
   testcases_i/p (input files for testcases)
